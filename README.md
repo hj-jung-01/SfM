@@ -1,2 +1,2 @@
 # SfM
-structure from motion
+simple code for structure from motion
